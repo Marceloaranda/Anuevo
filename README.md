@@ -1,2 +1,2 @@
 Cambios efectuados!
-desde VSCode
+desde git locat
